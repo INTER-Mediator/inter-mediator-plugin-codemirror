@@ -1,0 +1,23 @@
+{
+  "name": "inter-mediator-plugin-codemirror",
+  "version": "0.0.1",
+  "description": "INTER-Mediator plug-in to use the codemirror.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "codemirror"
+  ],
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror#readme"
+}
