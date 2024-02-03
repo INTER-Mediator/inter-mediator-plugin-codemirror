@@ -8,7 +8,7 @@
  * https://github.com/INTER-Mediator/INTER-Mediator/blob/master/dist-docs/License.txt
  */
 IMParts_Catalog['codemirror'] = {
-  instanciate: function (parentNode) {
+  instantiate: function (parentNode) {
     let newId = parentNode.getAttribute('id') + '-cm'
     let newNode = document.createElement('TEXTAREA')
     newNode.setAttribute('id', newId)
